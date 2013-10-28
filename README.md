@@ -1,4 +1,5 @@
-apache-flume-setup-strata-conf-ny-2013
-======================================
+### Apache Flume Installation Instructions ###
 
-Configuration for Apache Flume Installation
+Steps for setting up Apache Flume on your Local Machine
+
+#### Copy the Binary into /usr/local/flume ####
